@@ -1,17 +1,14 @@
 #Simple Genetic Algorithm
 
 ## Setup Windows
-
 - Open visual studio solution, 2013 or 2015
 - Build either debug or release
 - Run the console program
 
 ## Setup Linux/Mac
-
 - This has not been tested or written for other platforms.
 
 ## Credits
-
 - Written in C++ by [Kyle Rassweiler](http://www.kylerassweiler.ca) [Source](https://github.com/rassweiler/GeneticAlgorithm)
 - Processing tutorial by Daniel Shiffman [Site](http://natureofcode.com/book/chapter-9-the-evolution-of-code/).
 
@@ -20,7 +17,6 @@
 
 ## License
 (The MIT License)
-
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
 'Software'), to deal in the Software without restriction, including
